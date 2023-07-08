@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Hygge16
 - 👀 I’m interested in RoboMaster
-- 📫 How to reach me Jin0206161111@gmail.com
+- 📫 How to reach me Jin0206161111@gmail.com or 13234121216@163.com
 
 # Skills to master
 
