@@ -1,9 +1,60 @@
 - 👋 Hi, I’m @Hygge16
-- 👀 I’m interested in RM
-- 🌱 I’m currently learning STM32
-- 💞️ I’m looking to collaborate on STM32
-- 📫 How to reach me 13234121216@163.com
-<!---
-Hygge16/Hygge16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in RoboMaster
+- 📫 How to reach me Jin0206161111@gmail.com
+
+# Skills to master
+
+|        Plan        | State(Y or N or ) | Suggestion |
+| :----------------: | :---------------: | :--------: |
+|        VPN         |         Y         |            |
+|       Google       |         Y         |            |
+|       Gmail        |         Y         |            |
+|   Stackoverflow    |         Y         |            |
+|       Github       |         Y         |            |
+|        CSDN        |         Y         |            |
+|       Linux        |                   |            |
+|      Makefile      |                   |            |
+|      English       |         Y         |            |
+|         C          |         Y         |            |
+|      线性代数      |                   |            |
+|                    |                   |            |
+|     Solidworks     |                   |            |
+| 基本数电、数模转换 |                   |            |
+|       STM32        |         Y         |            |
+|         AD         |                   |            |
+|      BUG-List      |         Y         |            |
+|       cmake        |                   |            |
+|  Matlab、Simulink  |                   |            |
+|                    |                   |            |
+|      FreeRTOS      |                   |            |
+|       Latex        |                   |            |
+|       拓扑学       |                   |            |
+
+# Required literacy
+
+·Problem-Based Learning
+
+·一个人独立造一台车的能力
+
+·重头造轮子
+
+what can we do？
+====
+
+·Make English as your working language. （让英语成为你的工作语言）
+
+·Practice makes perfect. （熟能生巧）
+
+·All experience comes from mistakes. （所有的经验都源于你犯过的错误）
+
+·Don't be one of the leeches. （不要当伸手党）
+
+·Either outstanding or out. （要么出众，要么出局）
+
+# 附录
+
+----
+
+1. [RM论坛](https://bbs.robomaster.com/portal.php)
+2. [RM开源资料汇总](https://bbs.robomaster.com/forum.php?mod=viewthread&tid=6979&extra=page%3D1)
+3. [机器人工程师学习计划](https://zhuanlan.zhihu.com/p/22266788)
