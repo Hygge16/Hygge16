@@ -4,7 +4,7 @@
 
 # Skills to master
 
-|        Plan        | State(Y or N or ) | Suggestion |
+|        Plan        |       State       | Suggestion |
 | :----------------: | :---------------: | :--------: |
 |        VPN         |         Y         |            |
 |       Google       |         Y         |            |
@@ -58,3 +58,5 @@ what can we do？
 1. [RM论坛](https://bbs.robomaster.com/portal.php)
 2. [RM开源资料汇总](https://bbs.robomaster.com/forum.php?mod=viewthread&tid=6979&extra=page%3D1)
 3. [机器人工程师学习计划](https://zhuanlan.zhihu.com/p/22266788)
+4. [框框大学](https://www.kkdaxue.com/)
+5. [某交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
