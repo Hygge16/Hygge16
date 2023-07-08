@@ -16,6 +16,7 @@
 |      English       |         Y         |            |
 |         C          |         Y         |            |
 |      线性代数      |                   |            |
+|        HTML        |         Y         |            |
 |                    |                   |            |
 |     Solidworks     |                   |            |
 | 基本数电、数模转换 |                   |            |
