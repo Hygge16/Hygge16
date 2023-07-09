@@ -1,5 +1,7 @@
 - 👀 I’m interested in RoboMaster
 - 📫 How to reach me Jin0206161111@gmail.com or 13234121216@163.com
+- 
+Maybe you'll want to check on me
 
 # Skills to master
 
