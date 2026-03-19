@@ -1,2 +1,7 @@
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Hygge16&show_icons=true&theme=tokyonight)
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=Hygge16&layout=compact&theme=tokyonight)
+
+
+<div align="center" class=figure> 
+  <p><img height="165px" src="https://github-readme-stats.vercel.app/api?username=Hygge16&count_private=true&show_icons=true" alt="📈my github stats"/>
+&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hygge16&layout=compact" alt="📊this week i spent my time on" />
+</div>
